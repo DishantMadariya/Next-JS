@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course. Learn the basics of playing guitar with our comprehensive",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Get started with the piano with our beginner-friendly course. Get started with the piano with our beginner-friendly course.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cooking 101",
+      "slug": "cooking-101",
+      "description": "Learn the essentials of cooking with our hands-on course. Learn the essentials of cooking with our hands-on course.",
+      "price": 89.99,
+      "instructor": "Chef Mike",
+      "isFeatured": true,
+      "image": "/courses/cooking.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Photography Masterclass",
+      "slug": "photography-masterclass",
+      "description": "Master the art of photography with our expert-led course.",
+      "price": 119.99,
+      "instructor": "Photographer Sarah",
+      "isFeatured": false,
+      "image": "/courses/photography.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Yoga for Beginners",
+      "slug": "yoga-for-beginners",
+      "description": "Start your yoga journey with our gentle beginner's course. Start your yoga journey with our gentle beginner's course.",
+      "price": 69.99,
+      "instructor": "Yogi David",
+      "isFeatured": true,
+      "image": "/courses/yoga.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Web Development Bootcamp",
+      "slug": "web-development-bootcamp",
+      "description": "Become a web development pro with our intensive bootcamp.",
+      "price": 149.99,
+      "instructor": "CodeMaster",
+      "isFeatured": false,
+      "image": "/courses/web-development.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Graphic Design Fundamentals",
+      "slug": "graphic-design-fundamentals",
+      "description": "Learn the basics of graphic design and unleash your creativity. Learn the basics of graphic design and unleash your creativity.",
+      "price": 99.99,
+      "instructor": "Design Guru",
+      "isFeatured": true,
+      "image": "/courses/graphic-design.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Digital Marketing Essentials",
+      "slug": "digital-marketing-essentials",
+      "description": "Master the essentials of digital marketing with our comprehensive course.",
+      "price": 109.99,
+      "instructor": "Marketing Maven",
+      "isFeatured": false,
+      "image": "/courses/digital-marketing.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Language Learning Made Easy",
+      "slug": "language-learning-made-easy",
+      "description": "Start learning a new language with our fun and interactive course. Start learning a new language with our fun and interactive course.",
+      "price": 79.99,
+      "instructor": "Polyglot Pete",
+      "isFeatured": true,
+      "image": "/courses/language-learning.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Art History Exploration",
+      "slug": "art-history-exploration",
+      "description": "Explore the fascinating world of art history with our engaging course.",
+      "price": 94.99,
+      "instructor": "Art Aficionado",
+      "isFeatured": false,
+      "image": "/courses/art-history.jpg"
+    }
+]

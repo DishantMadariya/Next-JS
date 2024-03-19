@@ -1,0 +1,9 @@
+.hidescrollbar::-webkit-scrollbar {
+    display: none;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+}
+.h-screenfull {
+    height: 100vh !important;
+}
