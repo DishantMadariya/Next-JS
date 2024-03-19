@@ -33,7 +33,6 @@ const Featured = () => {
         const fetchData = async () => {
             const config = {
                 method: 'get',
-                maxBodyLength: Infinity,
                 url: 'http://localhost/wordpress/wp-json/wp/v2/feature?acf_format=standard&_fields=id,title,acf',
                 headers: {
                     'Content-Type': 'application/json',

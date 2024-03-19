@@ -1,43 +1,7 @@
 'use client'
 import React, { useEffect, useState } from 'react';
-// import axios from 'axios';
 
 const Footer = () => {
-    // const [apiData, setApiData] = useState(null);
-
-    // useEffect(() => {
-    //     const fetchData = async () => {
-    //         const data = JSON.stringify({
-    //             "user_id": 65,
-    //             "per_page": 10,
-    //             "page": 1,
-    //             "type": "all",
-    //             "group_id": null
-    //         });
-
-    //         const config = {
-    //             method: 'get',
-    //             maxBodyLength: Infinity,
-    //             url: 'http://192.168.1.29/socialiv/wp-json/socialv-api/api/v1/socialv/get-post',
-    //             headers: {
-    //                 'Content-Type': 'application/json',
-    //                 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTkyLjE2OC4xLjI5L3NvY2lhbGl2IiwiaWF0IjoxNzEwMzk4MTk1LCJuYmYiOjE3MTAzOTgxOTUsImV4cCI6MTcxMTAwMjk5NSwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiMSJ9fX0.q3FITwpxuXrr5BmB9TB4E0RMTNCe9HXZE4ik6S0Gh0Y',
-    //                 'Cookie': 'lp_session_guest=g-65f29adeb6fae'
-    //             },
-    //             data: data
-    //         };
-
-    //         try {
-    //             const fatchData = await axios.request(config);
-    //             console.log(fatchData.data);
-    //             setApiData(fatchData.data);
-    //         } catch (error) {
-    //             console.error(error);
-    //         }
-    //     };
-
-    //     fetchData();
-    // }, []);
 
     return (
         <footer className="bg-black text-gray-400 py-12">
